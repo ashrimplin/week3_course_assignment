@@ -81,7 +81,9 @@ fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
 
-=======================================DESCRIPTION OF VARIABLES USED========================================
+DESCRIPTION OF VARIABLES USED:
+========================================
+========================================
 The set of variables included in this data set were mean and standard deviation of the signals. 
 
 The 'activity' values correspond to the following descriptions:
@@ -92,10 +94,14 @@ The 'activity' values correspond to the following descriptions:
 5 STANDING
 6 LAYING
 
-=======================================DESCRIPTION OF THE OUTPUT FILE=======================================
+DESCRIPTION OF THE OUTPUT FILE:
+=======================================
+=======================================
 It is a tidy data set with the average of each variable for each activity and each subject.
 
-=======================================STEPS TO PERFORM ANALYSIS=======================================
+STEPS TO PERFORM ANALYSIS:
+=======================================
+=======================================
 Note: comments also included in the analysis file. 
 
 1) Create unique data frames for each of the files to be used for the analysis
