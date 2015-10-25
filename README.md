@@ -87,12 +87,13 @@ DESCRIPTION OF VARIABLES USED:
 The set of variables included in this data set were mean and standard deviation of the signals. 
 
 The 'activity' values correspond to the following descriptions:
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
 
 DESCRIPTION OF THE OUTPUT FILE:
 =======================================
@@ -104,12 +105,12 @@ STEPS TO PERFORM ANALYSIS:
 =======================================
 Note: comments also included in the analysis file. 
 
-1) Create unique data frames for each of the files to be used for the analysis
-2) Extract only the measurements on the mean and standard deviation for each measurement. 
-3) Rename 'person' and 'activity' headers
-4) Merge the test data sets together
-5) Merge the train data sets together
-6) Merge the training and the test sets to create one data set.
-7) Label the data set with descriptive variable names. 
-8) Create tidy data set with the average of each variable for each activity and each subject.
-9) Create export of the tidy data set
+1. Create unique data frames for each of the files to be used for the analysis
+2. Extract only the measurements on the mean and standard deviation for each measurement. 
+3. Rename 'person' and 'activity' headers
+4. Merge the test data sets together
+5. Merge the train data sets together
+6. Merge the training and the test sets to create one data set.
+7. Label the data set with descriptive variable names. 
+8. Create tidy data set with the average of each variable for each activity and each subject.
+9. Create export of the tidy data set
